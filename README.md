@@ -2,9 +2,8 @@
 <h1> ALX Software Engineering and DevOps -: :thread:</h1>
 </div>
 
-</hr>
 
-<div align="center">
+<div>
 DevOps is a software development approach that emphasizes collaboration, communication, and integration between developers and operations teams. It is an extension of the Agile methodology and focuses on automating the software development process to improve the speed, quality, and efficiency of software delivery.
 
 In a DevOps environment, developers and operations teams work closely together throughout the software development lifecycle. This collaboration is enabled by the use of automated tools and processes that allow developers to quickly and easily deploy code to production environments, monitor performance, and respond to issues in real-time.Some of the key principles of DevOps include continuous integration and delivery, infrastructure as code, and automated testing and deployment. These principles help to ensure that software development is a continuous and iterative process, with new features and updates delivered to end-users in a timely and efficient manner.

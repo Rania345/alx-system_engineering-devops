@@ -1,5 +1,5 @@
 <div align="center">
-<h1> ALX Software Engineering and DevOps -: :thread:</h1>
+<h1> ALX Software Engineering and DevOps -: </h1>
 </div>
 
 
@@ -24,7 +24,7 @@ All work contained in this repository was completed as part of the curriculum fo
 ALX Software Engineering and DevOps is a 12months full-stack software engineering program that prepares candidates for careers in the tech industry using project-based peer learning. 
 For more information, [visit this link](https://www.alxafrica.com/).
 
-## Projects:card_file_box:
+## Projects:
 The specific list of projects are as follows:
 - [0x00](./0x00-shell_basics) : Writing basic bash scripts that perform basic stuff.
 - [0x01](./0x01-shell_permissions) : Linux permissions.

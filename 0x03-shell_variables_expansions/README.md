@@ -1,4 +1,4 @@
-# Shell_variables_expansions
+# Shell, init files, variables and expansions
 
 An Introductory project to initialization files, local vs global variables, shell expansion, and shell arithmetic.
 

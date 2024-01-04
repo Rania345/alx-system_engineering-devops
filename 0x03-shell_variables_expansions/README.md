@@ -1,4 +1,4 @@
-# 0x03-shell_variables_expansions
+# Shell_variables_expansions
 
 An Introductory project to initialization files, local vs global variables, shell expansion, and shell arithmetic.
 

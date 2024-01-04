@@ -1,8 +1,8 @@
-# 0x01. Shell, permissions:
+# Shell, permissions:
 
-# An introductory project to permissions in BASH.
+## An introductory project to permissions in BASH.
 
-# Script Descriptions:
+### Script Descriptions:
 
 0-iam_betty - changes your user ID to betty.
 

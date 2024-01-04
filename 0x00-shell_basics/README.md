@@ -1,7 +1,6 @@
-# 0x00. Shell, basics:
-# An introductory project to the Bourne-again Shell.
-
-# Scrpit Descriptions:
+# Shell, basics:
+## An introductory project to the Bourne-again Shell.
+### Scrpit Descriptions:
 0-current_working_directory - prints the absolute path name of the current working directory.
 
 1-listit - displays the contents list of the current directory.
@@ -40,7 +39,7 @@
 
 18-commas - lists all the files and directories of the current directory separated by commas with the specifications that:
 
-directory namaes should end with a slash
+directory names should end with a slash
 files and directories starting with a dot should be listed
 the listings should be alpha ordered, except for the directories . and .. which should be listed at the very beginning,
 only digits and letters are used to sort; Digits should come first

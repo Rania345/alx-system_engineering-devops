@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# Bash script in terminal #0 and then moved on terminal #1 to run "5-dont_stop_me_now"
+
+pgrep -f 4-to_infinity_and_beyond | xargs kill

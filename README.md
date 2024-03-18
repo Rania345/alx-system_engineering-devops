@@ -10,15 +10,15 @@ In a DevOps environment, developers and operations teams work closely together t
 Overall, DevOps is a philosophy and methodology that promotes teamwork, communication, and continuous improvement in software development. It has become increasingly popular in recent years as organizations look to streamline their software development processes and improve the quality and reliability of their applications.
 </div>
 
-## Bash, Scripting, Shell permission, redirection, variables, expansions etc...
+### Bash, Scripting, Shell permission, redirection, variables, expansions etc...
 This repository contains programs written for the software engineering and DevOps track at ALX. In these projects, I worked with Bash and practiced writing Bash scripts to automate tasks. I learned about the OSI model and various Linux networking tools. 
 
-## Acknowledgements:
+### Acknowledgements:
 All work contained in this repository was completed as part of the curriculum for ALX Software Engineering and DevOps. 
 ALX Software Engineering and DevOps is a 12months full-stack software engineering program that prepares candidates for careers in the tech industry using project-based peer learning. 
 For more information, [visit this link](https://www.alxafrica.com/).
 
-## Projects:
+### Projects:
 The specific list of projects are as follows:
 - [0x00](./0x00-shell_basics) : Writing basic bash scripts that perform basic stuff.
 - [0x01](./0x01-shell_permissions) : Linux permissions.

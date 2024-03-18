@@ -2,8 +2,6 @@
 <h1> ALX Software Engineering and DevOps: </h1>
 </div>
 
-![GitHub Logo](./images/DevOps.png)
-
 <div>
 DevOps is a software development approach that emphasizes collaboration, communication, and integration between developers and operations teams. It is an extension of the Agile methodology and focuses on automating the software development process to improve the speed, quality, and efficiency of software delivery.
 
@@ -12,13 +10,8 @@ In a DevOps environment, developers and operations teams work closely together t
 Overall, DevOps is a philosophy and methodology that promotes teamwork, communication, and continuous improvement in software development. It has become increasingly popular in recent years as organizations look to streamline their software development processes and improve the quality and reliability of their applications.
 </div>
 
-## Bash, Scripting, Shell permission, redirection, variables, expansions etc.
-
-
+## Bash, Scripting, Shell permission, redirection, variables, expansions etc...
 This repository contains programs written for the software engineering and DevOps track at ALX. In these projects, I worked with Bash and practiced writing Bash scripts to automate tasks. I learned about the OSI model and various Linux networking tools. 
-
-
-
 
 ## Acknowledgements:
 All work contained in this repository was completed as part of the curriculum for ALX Software Engineering and DevOps. 

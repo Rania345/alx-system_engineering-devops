@@ -13,4 +13,3 @@ username="$3";
 path_pk="$4";
 
 scp -o StrictHostKeyChecking=no -o UserKnownHostsFile=/dev/null -i "$path_pk" "$path_to_file" "${username}"@"${ip}":~/
-

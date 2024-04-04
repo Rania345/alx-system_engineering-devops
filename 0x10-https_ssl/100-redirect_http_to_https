@@ -47,5 +47,5 @@ frontend darktech-frontend-https
 
 backend darktech-backend
         balance roundrobin
-        server 61590-web-01 18.204.7.186:80 check
-		server 61590-web-02 3.83.245.14:80 check
+        server 514490-web-01 54.87.171.72:80 check                                                                                                      
+        server 514490-web-02 174.129.157.27:80 check 

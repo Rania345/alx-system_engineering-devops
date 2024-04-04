@@ -36,7 +36,7 @@ defaults
 listen	balancer
 	# frontend config settings
 	bind :80
-	bind *:443 ssl crt /etc/letsencrypt/live/www.ruthmarcuss.tech/fullchain.pem
+	bind *:443 ssl crt /etc/letsencrypt/live/www.darktech.tech/fullchain.pem
     http-request redirect scheme https code 301 unless { ssl_fc }
 
 	# backend config settings

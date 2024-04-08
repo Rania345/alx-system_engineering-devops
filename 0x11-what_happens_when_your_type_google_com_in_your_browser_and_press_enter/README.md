@@ -15,13 +15,6 @@ request, please!
 
 This is all licensed under the terms of the `Creative Commons Zero`_ license.
 
-Table of Contents
-====================
-
-.. contents::
-   :backlinks: none
-   :local:
-
 The "g" key is pressed
 ----------------------
 The following sections explain the physical keyboard actions

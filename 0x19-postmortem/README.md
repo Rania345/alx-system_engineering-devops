@@ -1,6 +1,6 @@
 # Postmortem
 
-### Duration: 2 hours (12:00 PM - 2:00 PM EST)
+### Duration: 2 hours (12:00 PM - 2:00 PM WAT)
 <b>Impact:</B> Users were unable to access the checkout page on our e-commerce website, resulting in a loss of potential sales. Approximately 20% of users were affected.
 
 <b>Root Cause:</B> A recent update to the website's payment gateway integration introduced a bug that caused the checkout page to crash under certain circumstances.
